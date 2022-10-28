@@ -1,0 +1,23 @@
+.house img {
+    width: 300px;
+    height: 225px;
+}
+
+.row {
+    display: flex;
+}
+
+#houses-container {
+    justify-content: space-around;
+}
+
+#house-details {
+    margin-top: 35px;
+    margin-left: 265px;
+}
+
+#house-details fieldset {
+    display: inline-block;
+    width: 932px;
+    height: 450px;
+}
